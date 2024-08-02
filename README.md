@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @yuyou-dev
-- 👀 I’m interested in DeepLearning/Processing/JavaScript
-- 🌱 I’m currently learning DeepLearning
-- workflow工作流在对应的仓库中
+## 地质大学博士说AI
+视频制作、GPT、ComfyUI学习资料搭建中
+
+- ComfyUI工作流分享:  [workflow](https://github.com/yuyou-dev/workflow)
+- GPT3.5微调：[ChatGPT-Fine-tuning](https://github.com/yuyou-dev/ChatGPT-Fine-tuning)
+- AI视频制作（AI导演）:[AI-Director](https://github.com/yuyou-dev/AI-Director)
 
 <!---
 yuyou-dev/yuyou-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
