@@ -6,9 +6,5 @@
 - AI视频制作（AI导演）:[AI-Director](https://github.com/yuyou-dev/AI-Director)
 
 B站专栏：[地质大学博士说AI](https://space.bilibili.com/43149384)
-合作：[18314@qq.com](mailto:18314@qq.com)
 
-<!---
-yuyou-dev/yuyou-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+商务 & 合作：[18314@qq.com](mailto:18314@qq.com)
