@@ -1,6 +1,7 @@
 ## 地质大学博士说AI
 视频制作、GPT、ComfyUI学习资料搭建中
 
+- Vibe Agent：[Vibe-Agent](https://github.com/yuyou-dev/Vibe-Agent)
 - DeepSeek - 飞书超级文档：[Feishu-dev](https://github.com/yuyou-dev/Feishu-dev)
 - ComfyUI工作流分享:  [workflow](https://github.com/yuyou-dev/workflow)
 - GPT3.5微调：[ChatGPT-Fine-tuning](https://github.com/yuyou-dev/ChatGPT-Fine-tuning)
