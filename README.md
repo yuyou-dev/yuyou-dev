@@ -1,5 +1,7 @@
 ## 地质大学博士说AI
-视频制作、GPT、ComfyUI学习资料搭建中
+视频制作、GPT、ComfyUI学习资料持续更新
+
+中国地质大学珠宝学院 余悠博士 技术专栏
 
 - Vibe Agent（Gemini3和香蕉pro系列）：[Vibe-Agent](https://github.com/yuyou-dev/Vibe-Agent)
 - VibeAgent全栈工程（AIAgent私有化部署）：[Vibe-Agent-Pro](https://github.com/yuyou-dev/Vibe-Agent-Pro)
