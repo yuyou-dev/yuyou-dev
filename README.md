@@ -5,7 +5,6 @@
 
 - Vibe Agent（Gemini3和香蕉pro系列）：[Vibe-Agent](https://github.com/yuyou-dev/Vibe-Agent)
 - VibeAgent全栈工程（AIAgent私有化部署）：[Vibe-Agent-Pro](https://github.com/yuyou-dev/Vibe-Agent-Pro)
-- DeepSeek - 飞书超级文档：[Feishu-dev](https://github.com/yuyou-dev/Feishu-dev)
 - AI视频制作（AI导演）:[AI-Director](https://github.com/yuyou-dev/AI-Director)
 
 B站专栏：[地质大学博士说AI](https://space.bilibili.com/43149384)
